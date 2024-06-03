@@ -8,15 +8,15 @@ This project involves creating an HTTP JSON API Time Server using Node.js. The s
 
 ## Setup Environment
 ### Install Node.js and npm on Ubuntu
-1. **Update the package list:**
+1. Update the package list:
    ```bash
    sudo apt update
    ```
-2. **Install Node.js and npm:**
+2. Install Node.js and npm:
    ```bash
    sudo apt install nodejs npm
    ```
-3. **Verify the installation:**
+3. Verify the installation:
    ```bash
    node -v
    npm -v
@@ -24,21 +24,21 @@ This project involves creating an HTTP JSON API Time Server using Node.js. The s
 
 ## Download Programs and Related Documentation
 ### Create Project Directory
-1. **Create and navigate to the project directory:**
+1. Create and navigate to the project directory:
    ```bash
    mkdir time-server
    cd time-server
    ```
 
 ### Initialize Node.js Project
-1. **Initialize the project with default settings:**
+1. Initialize the project with default settings:
    ```bash
    npm init -y
    ```
 
 ## Process of Program Execution
 ### Create and Configure `app.js`
-1. **Create the `app.js` file:**
+1. Create the `app.js` file:
    ```bash
    touch app.js
    ```
